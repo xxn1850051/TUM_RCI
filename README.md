@@ -1,1 +1,1 @@
-Studienmaterialien während des Masterstudiums
+Studienmaterialien während des Masterstudiums (Übungen zur Programmierung)
